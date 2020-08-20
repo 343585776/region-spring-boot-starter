@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+### sdevil507 template
+.DS_Store
+.idea/
+*.iml
+out
+gen
+/logs/
+/target/
